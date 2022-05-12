@@ -1,0 +1,22 @@
+{
+  "name": "gym-react",
+  "version": "1.0.0",
+  "description": "Gym website responsive with react.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felipemorai/Gym-React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Felipemorai/Gym-React/issues"
+  },
+  "homepage": "https://github.com/Felipemorai/Gym-React#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
