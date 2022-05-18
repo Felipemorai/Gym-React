@@ -28,7 +28,7 @@ button, input {
 
 #main {
   width: 100%;
-  height: 768px;
+  height: 965px;
   position: relative;
   background-repeat: no-repeat;
   background-size: cover;
@@ -157,6 +157,7 @@ nav .menu-btn,
 }
 
 .header-btn {
+  font-family: 'Lato';
   width: 160px;
   height: 50px;
   display: flex;
