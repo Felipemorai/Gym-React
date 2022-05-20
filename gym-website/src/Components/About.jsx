@@ -16,6 +16,9 @@ function About() {
                     At Fitness & Beyond, our goal is simple:
                    Let us help you <span class="up">Find Your Strength!</span>
                 </p>
+                <button>
+                    READ MORE
+                </button>
             </div>
         </div>
     )
